@@ -1,0 +1,989 @@
+;data;tipo_di_ricovero;totali_tipi_ricovero
+0;25/02/2020;intensiva;0
+1;26/02/2020;intensiva;0
+2;27/02/2020;intensiva;0
+3;28/02/2020;intensiva;0
+4;29/02/2020;intensiva;0
+5;01/03/2020;intensiva;0
+6;02/03/2020;intensiva;0
+7;03/03/2020;intensiva;0
+8;04/03/2020;intensiva;0
+9;05/03/2020;intensiva;19
+10;06/03/2020;intensiva;20
+11;07/03/2020;intensiva;33
+12;08/03/2020;intensiva;41
+13;09/03/2020;intensiva;47
+14;10/03/2020;intensiva;54
+15;11/03/2020;intensiva;66
+16;12/03/2020;intensiva;76
+17;13/03/2020;intensiva;85
+18;14/03/2020;intensiva;93
+19;15/03/2020;intensiva;98
+20;16/03/2020;intensiva;110
+21;17/03/2020;intensiva;109
+22;18/03/2020;intensiva;119
+23;19/03/2020;intensiva;141
+24;20/03/2020;intensiva;138
+25;21/03/2020;intensiva;141
+26;22/03/2020;intensiva;138
+27;23/03/2020;intensiva;148
+28;24/03/2020;intensiva;149
+29;25/03/2020;intensiva;148
+30;26/03/2020;intensiva;166
+31;27/03/2020;intensiva;162
+32;28/03/2020;intensiva;166
+33;29/03/2020;intensiva;168
+34;30/03/2020;intensiva;167
+35;31/03/2020;intensiva;169
+36;01/04/2020;intensiva;168
+37;02/04/2020;intensiva;164
+38;03/04/2020;intensiva;158
+39;04/04/2020;intensiva;153
+40;05/04/2020;intensiva;151
+41;06/04/2020;intensiva;140
+42;07/04/2020;intensiva;139
+43;08/04/2020;intensiva;133
+44;09/04/2020;intensiva;133
+45;10/04/2020;intensiva;127
+46;11/04/2020;intensiva;118
+47;12/04/2020;intensiva;114
+48;13/04/2020;intensiva;108
+49;14/04/2020;intensiva;106
+50;15/04/2020;intensiva;106
+51;16/04/2020;intensiva;102
+52;17/04/2020;intensiva;94
+53;18/04/2020;intensiva;88
+54;19/04/2020;intensiva;86
+55;20/04/2020;intensiva;80
+56;21/04/2020;intensiva;78
+57;22/04/2020;intensiva;76
+58;23/04/2020;intensiva;71
+59;24/04/2020;intensiva;61
+60;25/04/2020;intensiva;58
+61;26/04/2020;intensiva;58
+62;27/04/2020;intensiva;58
+63;28/04/2020;intensiva;58
+64;29/04/2020;intensiva;52
+65;30/04/2020;intensiva;48
+66;01/05/2020;intensiva;44
+67;02/05/2020;intensiva;46
+68;03/05/2020;intensiva;43
+69;04/05/2020;intensiva;44
+70;05/05/2020;intensiva;42
+71;06/05/2020;intensiva;42
+72;07/05/2020;intensiva;41
+73;08/05/2020;intensiva;38
+74;09/05/2020;intensiva;32
+75;10/05/2020;intensiva;30
+76;11/05/2020;intensiva;28
+77;12/05/2020;intensiva;24
+78;13/05/2020;intensiva;20
+79;14/05/2020;intensiva;18
+80;15/05/2020;intensiva;18
+81;16/05/2020;intensiva;17
+82;17/05/2020;intensiva;18
+83;18/05/2020;intensiva;17
+84;19/05/2020;intensiva;17
+85;20/05/2020;intensiva;16
+86;21/05/2020;intensiva;16
+87;22/05/2020;intensiva;15
+88;23/05/2020;intensiva;15
+89;24/05/2020;intensiva;13
+90;25/05/2020;intensiva;13
+91;26/05/2020;intensiva;13
+92;27/05/2020;intensiva;13
+93;28/05/2020;intensiva;13
+94;29/05/2020;intensiva;9
+95;30/05/2020;intensiva;9
+96;31/05/2020;intensiva;9
+97;01/06/2020;intensiva;9
+98;02/06/2020;intensiva;9
+99;03/06/2020;intensiva;8
+100;04/06/2020;intensiva;5
+101;05/06/2020;intensiva;5
+102;06/06/2020;intensiva;3
+103;07/06/2020;intensiva;2
+104;08/06/2020;intensiva;2
+105;09/06/2020;intensiva;0
+106;10/06/2020;intensiva;0
+107;11/06/2020;intensiva;0
+108;12/06/2020;intensiva;0
+109;13/06/2020;intensiva;0
+110;14/06/2020;intensiva;0
+111;15/06/2020;intensiva;0
+112;16/06/2020;intensiva;0
+113;17/06/2020;intensiva;0
+114;18/06/2020;intensiva;0
+115;19/06/2020;intensiva;0
+116;20/06/2020;intensiva;0
+117;21/06/2020;intensiva;0
+118;22/06/2020;intensiva;0
+119;23/06/2020;intensiva;0
+120;24/06/2020;intensiva;0
+121;25/06/2020;intensiva;0
+122;26/06/2020;intensiva;0
+123;27/06/2020;intensiva;0
+124;28/06/2020;intensiva;0
+125;29/06/2020;intensiva;0
+126;30/06/2020;intensiva;0
+127;01/07/2020;intensiva;0
+128;02/07/2020;intensiva;0
+129;03/07/2020;intensiva;0
+130;04/07/2020;intensiva;0
+131;05/07/2020;intensiva;0
+132;06/07/2020;intensiva;0
+133;07/07/2020;intensiva;0
+134;08/07/2020;intensiva;0
+135;09/07/2020;intensiva;0
+136;10/07/2020;intensiva;0
+137;11/07/2020;intensiva;0
+138;12/07/2020;intensiva;0
+139;13/07/2020;intensiva;0
+140;14/07/2020;intensiva;0
+141;15/07/2020;intensiva;1
+142;16/07/2020;intensiva;1
+143;17/07/2020;intensiva;1
+144;18/07/2020;intensiva;1
+145;19/07/2020;intensiva;1
+146;20/07/2020;intensiva;1
+147;21/07/2020;intensiva;1
+148;22/07/2020;intensiva;1
+149;23/07/2020;intensiva;1
+150;24/07/2020;intensiva;1
+151;25/07/2020;intensiva;1
+152;26/07/2020;intensiva;1
+153;27/07/2020;intensiva;0
+154;28/07/2020;intensiva;0
+155;29/07/2020;intensiva;0
+156;30/07/2020;intensiva;0
+157;31/07/2020;intensiva;0
+158;01/08/2020;intensiva;0
+159;02/08/2020;intensiva;0
+160;03/08/2020;intensiva;0
+161;04/08/2020;intensiva;0
+162;05/08/2020;intensiva;0
+163;06/08/2020;intensiva;0
+164;07/08/2020;intensiva;0
+165;08/08/2020;intensiva;0
+166;09/08/2020;intensiva;0
+167;10/08/2020;intensiva;0
+168;11/08/2020;intensiva;0
+169;12/08/2020;intensiva;0
+170;13/08/2020;intensiva;0
+171;14/08/2020;intensiva;1
+172;15/08/2020;intensiva;1
+173;16/08/2020;intensiva;1
+174;17/08/2020;intensiva;1
+175;18/08/2020;intensiva;1
+176;19/08/2020;intensiva;1
+177;20/08/2020;intensiva;1
+178;21/08/2020;intensiva;1
+179;22/08/2020;intensiva;1
+180;23/08/2020;intensiva;1
+181;24/08/2020;intensiva;0
+182;25/08/2020;intensiva;0
+183;26/08/2020;intensiva;0
+184;27/08/2020;intensiva;0
+185;28/08/2020;intensiva;1
+186;29/08/2020;intensiva;1
+187;30/08/2020;intensiva;1
+188;31/08/2020;intensiva;1
+189;01/09/2020;intensiva;1
+190;02/09/2020;intensiva;1
+191;03/09/2020;intensiva;1
+192;04/09/2020;intensiva;1
+193;05/09/2020;intensiva;1
+194;06/09/2020;intensiva;1
+195;07/09/2020;intensiva;1
+196;08/09/2020;intensiva;1
+197;09/09/2020;intensiva;2
+198;10/09/2020;intensiva;2
+199;11/09/2020;intensiva;2
+200;12/09/2020;intensiva;2
+201;13/09/2020;intensiva;2
+202;14/09/2020;intensiva;2
+203;15/09/2020;intensiva;2
+204;16/09/2020;intensiva;2
+205;17/09/2020;intensiva;2
+206;18/09/2020;intensiva;2
+207;19/09/2020;intensiva;2
+208;20/09/2020;intensiva;2
+209;21/09/2020;intensiva;2
+210;22/09/2020;intensiva;3
+211;23/09/2020;intensiva;4
+212;24/09/2020;intensiva;3
+213;25/09/2020;intensiva;2
+214;26/09/2020;intensiva;2
+215;27/09/2020;intensiva;2
+216;28/09/2020;intensiva;2
+217;29/09/2020;intensiva;3
+218;30/09/2020;intensiva;2
+219;01/10/2020;intensiva;6
+220;02/10/2020;intensiva;4
+221;03/10/2020;intensiva;6
+222;04/10/2020;intensiva;6
+223;05/10/2020;intensiva;6
+224;06/10/2020;intensiva;6
+225;07/10/2020;intensiva;5
+226;08/10/2020;intensiva;5
+227;09/10/2020;intensiva;3
+228;10/10/2020;intensiva;4
+229;11/10/2020;intensiva;6
+230;12/10/2020;intensiva;5
+231;13/10/2020;intensiva;6
+232;14/10/2020;intensiva;8
+233;15/10/2020;intensiva;9
+234;16/10/2020;intensiva;10
+235;17/10/2020;intensiva;10
+236;18/10/2020;intensiva;13
+237;19/10/2020;intensiva;16
+238;20/10/2020;intensiva;19
+239;21/10/2020;intensiva;19
+240;22/10/2020;intensiva;19
+241;23/10/2020;intensiva;22
+242;24/10/2020;intensiva;23
+243;25/10/2020;intensiva;26
+244;26/10/2020;intensiva;26
+245;27/10/2020;intensiva;28
+246;28/10/2020;intensiva;32
+247;25/02/2020;semi-intensiva;0
+248;26/02/2020;semi-intensiva;0
+249;27/02/2020;semi-intensiva;0
+250;28/02/2020;semi-intensiva;0
+251;29/02/2020;semi-intensiva;0
+252;01/03/2020;semi-intensiva;0
+253;02/03/2020;semi-intensiva;0
+254;03/03/2020;semi-intensiva;0
+255;04/03/2020;semi-intensiva;0
+256;05/03/2020;semi-intensiva;0
+257;06/03/2020;semi-intensiva;0
+258;07/03/2020;semi-intensiva;0
+259;08/03/2020;semi-intensiva;0
+260;09/03/2020;semi-intensiva;0
+261;10/03/2020;semi-intensiva;0
+262;11/03/2020;semi-intensiva;0
+263;12/03/2020;semi-intensiva;0
+264;13/03/2020;semi-intensiva;0
+265;14/03/2020;semi-intensiva;0
+266;15/03/2020;semi-intensiva;0
+267;16/03/2020;semi-intensiva;0
+268;17/03/2020;semi-intensiva;144
+269;18/03/2020;semi-intensiva;145
+270;19/03/2020;semi-intensiva;140
+271;20/03/2020;semi-intensiva;154
+272;21/03/2020;semi-intensiva;128
+273;22/03/2020;semi-intensiva;122
+274;23/03/2020;semi-intensiva;128
+275;24/03/2020;semi-intensiva;118
+276;25/03/2020;semi-intensiva;179
+277;26/03/2020;semi-intensiva;261
+278;27/03/2020;semi-intensiva;257
+279;28/03/2020;semi-intensiva;270
+280;29/03/2020;semi-intensiva;311
+281;30/03/2020;semi-intensiva;315
+282;31/03/2020;semi-intensiva;299
+283;01/04/2020;semi-intensiva;296
+284;02/04/2020;semi-intensiva;305
+285;03/04/2020;semi-intensiva;295
+286;04/04/2020;semi-intensiva;291
+287;05/04/2020;semi-intensiva;279
+288;06/04/2020;semi-intensiva;286
+289;07/04/2020;semi-intensiva;277
+290;08/04/2020;semi-intensiva;275
+291;09/04/2020;semi-intensiva;271
+292;10/04/2020;semi-intensiva;264
+293;11/04/2020;semi-intensiva;255
+294;12/04/2020;semi-intensiva;249
+295;13/04/2020;semi-intensiva;241
+296;14/04/2020;semi-intensiva;244
+297;15/04/2020;semi-intensiva;234
+298;16/04/2020;semi-intensiva;214
+299;17/04/2020;semi-intensiva;205
+300;18/04/2020;semi-intensiva;202
+301;19/04/2020;semi-intensiva;196
+302;20/04/2020;semi-intensiva;188
+303;21/04/2020;semi-intensiva;181
+304;22/04/2020;semi-intensiva;169
+305;23/04/2020;semi-intensiva;165
+306;24/04/2020;semi-intensiva;165
+307;25/04/2020;semi-intensiva;151
+308;26/04/2020;semi-intensiva;147
+309;27/04/2020;semi-intensiva;151
+310;28/04/2020;semi-intensiva;147
+311;29/04/2020;semi-intensiva;134
+312;30/04/2020;semi-intensiva;119
+313;01/05/2020;semi-intensiva;119
+314;02/05/2020;semi-intensiva;117
+315;03/05/2020;semi-intensiva;114
+316;04/05/2020;semi-intensiva;112
+317;05/05/2020;semi-intensiva;114
+318;06/05/2020;semi-intensiva;95
+319;07/05/2020;semi-intensiva;90
+320;08/05/2020;semi-intensiva;67
+321;09/05/2020;semi-intensiva;65
+322;10/05/2020;semi-intensiva;80
+323;11/05/2020;semi-intensiva;77
+324;12/05/2020;semi-intensiva;73
+325;13/05/2020;semi-intensiva;60
+326;14/05/2020;semi-intensiva;56
+327;15/05/2020;semi-intensiva;54
+328;16/05/2020;semi-intensiva;47
+329;17/05/2020;semi-intensiva;46
+330;18/05/2020;semi-intensiva;49
+331;19/05/2020;semi-intensiva;29
+332;20/05/2020;semi-intensiva;22
+333;21/05/2020;semi-intensiva;16
+334;22/05/2020;semi-intensiva;12
+335;23/05/2020;semi-intensiva;14
+336;24/05/2020;semi-intensiva;16
+337;25/05/2020;semi-intensiva;11
+338;26/05/2020;semi-intensiva;12
+339;27/05/2020;semi-intensiva;14
+340;28/05/2020;semi-intensiva;11
+341;29/05/2020;semi-intensiva;10
+342;30/05/2020;semi-intensiva;10
+343;31/05/2020;semi-intensiva;8
+344;01/06/2020;semi-intensiva;9
+345;02/06/2020;semi-intensiva;10
+346;03/06/2020;semi-intensiva;8
+347;04/06/2020;semi-intensiva;7
+348;05/06/2020;semi-intensiva;6
+349;06/06/2020;semi-intensiva;5
+350;07/06/2020;semi-intensiva;1
+351;08/06/2020;semi-intensiva;1
+352;09/06/2020;semi-intensiva;1
+353;10/06/2020;semi-intensiva;1
+354;11/06/2020;semi-intensiva;1
+355;12/06/2020;semi-intensiva;1
+356;13/06/2020;semi-intensiva;1
+357;14/06/2020;semi-intensiva;1
+358;15/06/2020;semi-intensiva;1
+359;16/06/2020;semi-intensiva;1
+360;17/06/2020;semi-intensiva;1
+361;18/06/2020;semi-intensiva;2
+362;19/06/2020;semi-intensiva;2
+363;20/06/2020;semi-intensiva;2
+364;21/06/2020;semi-intensiva;2
+365;22/06/2020;semi-intensiva;2
+366;23/06/2020;semi-intensiva;2
+367;24/06/2020;semi-intensiva;2
+368;25/06/2020;semi-intensiva;2
+369;26/06/2020;semi-intensiva;2
+370;27/06/2020;semi-intensiva;2
+371;28/06/2020;semi-intensiva;1
+372;29/06/2020;semi-intensiva;1
+373;30/06/2020;semi-intensiva;0
+374;01/07/2020;semi-intensiva;0
+375;02/07/2020;semi-intensiva;0
+376;03/07/2020;semi-intensiva;0
+377;04/07/2020;semi-intensiva;0
+378;05/07/2020;semi-intensiva;0
+379;06/07/2020;semi-intensiva;0
+380;07/07/2020;semi-intensiva;0
+381;08/07/2020;semi-intensiva;0
+382;09/07/2020;semi-intensiva;0
+383;10/07/2020;semi-intensiva;0
+384;11/07/2020;semi-intensiva;0
+385;12/07/2020;semi-intensiva;0
+386;13/07/2020;semi-intensiva;0
+387;14/07/2020;semi-intensiva;0
+388;15/07/2020;semi-intensiva;0
+389;16/07/2020;semi-intensiva;0
+390;17/07/2020;semi-intensiva;0
+391;18/07/2020;semi-intensiva;0
+392;19/07/2020;semi-intensiva;0
+393;20/07/2020;semi-intensiva;0
+394;21/07/2020;semi-intensiva;0
+395;22/07/2020;semi-intensiva;0
+396;23/07/2020;semi-intensiva;0
+397;24/07/2020;semi-intensiva;0
+398;25/07/2020;semi-intensiva;0
+399;26/07/2020;semi-intensiva;0
+400;27/07/2020;semi-intensiva;0
+401;28/07/2020;semi-intensiva;0
+402;29/07/2020;semi-intensiva;0
+403;30/07/2020;semi-intensiva;0
+404;31/07/2020;semi-intensiva;0
+405;01/08/2020;semi-intensiva;0
+406;02/08/2020;semi-intensiva;0
+407;03/08/2020;semi-intensiva;0
+408;04/08/2020;semi-intensiva;0
+409;05/08/2020;semi-intensiva;0
+410;06/08/2020;semi-intensiva;0
+411;07/08/2020;semi-intensiva;0
+412;08/08/2020;semi-intensiva;0
+413;09/08/2020;semi-intensiva;0
+414;10/08/2020;semi-intensiva;0
+415;11/08/2020;semi-intensiva;0
+416;12/08/2020;semi-intensiva;0
+417;13/08/2020;semi-intensiva;0
+418;14/08/2020;semi-intensiva;0
+419;15/08/2020;semi-intensiva;0
+420;16/08/2020;semi-intensiva;0
+421;17/08/2020;semi-intensiva;0
+422;18/08/2020;semi-intensiva;0
+423;19/08/2020;semi-intensiva;0
+424;20/08/2020;semi-intensiva;0
+425;21/08/2020;semi-intensiva;0
+426;22/08/2020;semi-intensiva;0
+427;23/08/2020;semi-intensiva;0
+428;24/08/2020;semi-intensiva;0
+429;25/08/2020;semi-intensiva;0
+430;26/08/2020;semi-intensiva;0
+431;27/08/2020;semi-intensiva;0
+432;28/08/2020;semi-intensiva;0
+433;29/08/2020;semi-intensiva;0
+434;30/08/2020;semi-intensiva;0
+435;31/08/2020;semi-intensiva;0
+436;01/09/2020;semi-intensiva;0
+437;02/09/2020;semi-intensiva;0
+438;03/09/2020;semi-intensiva;0
+439;04/09/2020;semi-intensiva;0
+440;05/09/2020;semi-intensiva;0
+441;06/09/2020;semi-intensiva;0
+442;07/09/2020;semi-intensiva;0
+443;08/09/2020;semi-intensiva;0
+444;09/09/2020;semi-intensiva;0
+445;10/09/2020;semi-intensiva;0
+446;11/09/2020;semi-intensiva;0
+447;12/09/2020;semi-intensiva;0
+448;13/09/2020;semi-intensiva;0
+449;14/09/2020;semi-intensiva;0
+450;15/09/2020;semi-intensiva;0
+451;16/09/2020;semi-intensiva;0
+452;17/09/2020;semi-intensiva;0
+453;18/09/2020;semi-intensiva;0
+454;19/09/2020;semi-intensiva;0
+455;20/09/2020;semi-intensiva;0
+456;21/09/2020;semi-intensiva;0
+457;22/09/2020;semi-intensiva;0
+458;23/09/2020;semi-intensiva;0
+459;24/09/2020;semi-intensiva;0
+460;25/09/2020;semi-intensiva;0
+461;26/09/2020;semi-intensiva;0
+462;27/09/2020;semi-intensiva;2
+463;28/09/2020;semi-intensiva;2
+464;29/09/2020;semi-intensiva;1
+465;30/09/2020;semi-intensiva;2
+466;01/10/2020;semi-intensiva;0
+467;02/10/2020;semi-intensiva;2
+468;03/10/2020;semi-intensiva;1
+469;04/10/2020;semi-intensiva;0
+470;05/10/2020;semi-intensiva;0
+471;06/10/2020;semi-intensiva;0
+472;07/10/2020;semi-intensiva;1
+473;08/10/2020;semi-intensiva;0
+474;09/10/2020;semi-intensiva;1
+475;10/10/2020;semi-intensiva;0
+476;11/10/2020;semi-intensiva;0
+477;12/10/2020;semi-intensiva;0
+478;13/10/2020;semi-intensiva;0
+479;14/10/2020;semi-intensiva;0
+480;15/10/2020;semi-intensiva;0
+481;16/10/2020;semi-intensiva;1
+482;17/10/2020;semi-intensiva;1
+483;18/10/2020;semi-intensiva;2
+484;19/10/2020;semi-intensiva;1
+485;20/10/2020;semi-intensiva;4
+486;21/10/2020;semi-intensiva;8
+487;22/10/2020;semi-intensiva;8
+488;23/10/2020;semi-intensiva;9
+489;24/10/2020;semi-intensiva;13
+490;25/10/2020;semi-intensiva;33
+491;26/10/2020;semi-intensiva;40
+492;27/10/2020;semi-intensiva;30
+493;28/10/2020;semi-intensiva;49
+494;25/02/2020;post-critica;0
+495;26/02/2020;post-critica;0
+496;27/02/2020;post-critica;0
+497;28/02/2020;post-critica;0
+498;29/02/2020;post-critica;0
+499;01/03/2020;post-critica;0
+500;02/03/2020;post-critica;0
+501;03/03/2020;post-critica;0
+502;04/03/2020;post-critica;0
+503;05/03/2020;post-critica;0
+504;06/03/2020;post-critica;0
+505;07/03/2020;post-critica;0
+506;08/03/2020;post-critica;0
+507;09/03/2020;post-critica;0
+508;10/03/2020;post-critica;0
+509;11/03/2020;post-critica;0
+510;12/03/2020;post-critica;0
+511;13/03/2020;post-critica;0
+512;14/03/2020;post-critica;0
+513;15/03/2020;post-critica;10
+514;16/03/2020;post-critica;16
+515;17/03/2020;post-critica;29
+516;18/03/2020;post-critica;58
+517;19/03/2020;post-critica;77
+518;20/03/2020;post-critica;97
+519;21/03/2020;post-critica;120
+520;22/03/2020;post-critica;137
+521;23/03/2020;post-critica;162
+522;24/03/2020;post-critica;169
+523;25/03/2020;post-critica;182
+524;26/03/2020;post-critica;198
+525;27/03/2020;post-critica;209
+526;28/03/2020;post-critica;188
+527;29/03/2020;post-critica;158
+528;30/03/2020;post-critica;160
+529;31/03/2020;post-critica;155
+530;01/04/2020;post-critica;156
+531;02/04/2020;post-critica;154
+532;03/04/2020;post-critica;154
+533;04/04/2020;post-critica;164
+534;05/04/2020;post-critica;187
+535;06/04/2020;post-critica;193
+536;07/04/2020;post-critica;198
+537;08/04/2020;post-critica;204
+538;09/04/2020;post-critica;211
+539;10/04/2020;post-critica;209
+540;11/04/2020;post-critica;228
+541;12/04/2020;post-critica;225
+542;13/04/2020;post-critica;223
+543;14/04/2020;post-critica;222
+544;15/04/2020;post-critica;220
+545;16/04/2020;post-critica;231
+546;17/04/2020;post-critica;241
+547;18/04/2020;post-critica;234
+548;19/04/2020;post-critica;231
+549;20/04/2020;post-critica;232
+550;21/04/2020;post-critica;231
+551;22/04/2020;post-critica;227
+552;23/04/2020;post-critica;229
+553;24/04/2020;post-critica;226
+554;25/04/2020;post-critica;225
+555;26/04/2020;post-critica;225
+556;27/04/2020;post-critica;226
+557;28/04/2020;post-critica;223
+558;29/04/2020;post-critica;222
+559;30/04/2020;post-critica;218
+560;01/05/2020;post-critica;209
+561;02/05/2020;post-critica;207
+562;03/05/2020;post-critica;210
+563;04/05/2020;post-critica;236
+564;05/05/2020;post-critica;228
+565;06/05/2020;post-critica;198
+566;07/05/2020;post-critica;208
+567;08/05/2020;post-critica;227
+568;09/05/2020;post-critica;231
+569;10/05/2020;post-critica;226
+570;11/05/2020;post-critica;226
+571;12/05/2020;post-critica;233
+572;13/05/2020;post-critica;237
+573;14/05/2020;post-critica;232
+574;15/05/2020;post-critica;246
+575;16/05/2020;post-critica;244
+576;17/05/2020;post-critica;238
+577;18/05/2020;post-critica;238
+578;19/05/2020;post-critica;236
+579;20/05/2020;post-critica;233
+580;21/05/2020;post-critica;227
+581;22/05/2020;post-critica;219
+582;23/05/2020;post-critica;217
+583;24/05/2020;post-critica;217
+584;25/05/2020;post-critica;199
+585;26/05/2020;post-critica;199
+586;27/05/2020;post-critica;191
+587;28/05/2020;post-critica;191
+588;29/05/2020;post-critica;188
+589;30/05/2020;post-critica;150
+590;31/05/2020;post-critica;137
+591;01/06/2020;post-critica;137
+592;02/06/2020;post-critica;128
+593;03/06/2020;post-critica;128
+594;04/06/2020;post-critica;116
+595;05/06/2020;post-critica;114
+596;06/06/2020;post-critica;107
+597;07/06/2020;post-critica;99
+598;08/06/2020;post-critica;96
+599;09/06/2020;post-critica;78
+600;10/06/2020;post-critica;78
+601;11/06/2020;post-critica;76
+602;12/06/2020;post-critica;72
+603;13/06/2020;post-critica;67
+604;14/06/2020;post-critica;62
+605;15/06/2020;post-critica;58
+606;16/06/2020;post-critica;58
+607;17/06/2020;post-critica;58
+608;18/06/2020;post-critica;44
+609;19/06/2020;post-critica;40
+610;20/06/2020;post-critica;40
+611;21/06/2020;post-critica;40
+612;22/06/2020;post-critica;40
+613;23/06/2020;post-critica;40
+614;24/06/2020;post-critica;20
+615;25/06/2020;post-critica;19
+616;26/06/2020;post-critica;7
+617;27/06/2020;post-critica;7
+618;28/06/2020;post-critica;7
+619;29/06/2020;post-critica;7
+620;30/06/2020;post-critica;7
+621;01/07/2020;post-critica;7
+622;02/07/2020;post-critica;7
+623;03/07/2020;post-critica;7
+624;04/07/2020;post-critica;2
+625;05/07/2020;post-critica;2
+626;06/07/2020;post-critica;2
+627;07/07/2020;post-critica;2
+628;08/07/2020;post-critica;2
+629;09/07/2020;post-critica;2
+630;10/07/2020;post-critica;2
+631;11/07/2020;post-critica;2
+632;12/07/2020;post-critica;2
+633;13/07/2020;post-critica;2
+634;14/07/2020;post-critica;2
+635;15/07/2020;post-critica;2
+636;16/07/2020;post-critica;2
+637;17/07/2020;post-critica;2
+638;18/07/2020;post-critica;2
+639;19/07/2020;post-critica;2
+640;20/07/2020;post-critica;2
+641;21/07/2020;post-critica;2
+642;22/07/2020;post-critica;2
+643;23/07/2020;post-critica;2
+644;24/07/2020;post-critica;2
+645;25/07/2020;post-critica;2
+646;26/07/2020;post-critica;2
+647;27/07/2020;post-critica;2
+648;28/07/2020;post-critica;2
+649;29/07/2020;post-critica;2
+650;30/07/2020;post-critica;2
+651;31/07/2020;post-critica;1
+652;01/08/2020;post-critica;1
+653;02/08/2020;post-critica;1
+654;03/08/2020;post-critica;1
+655;04/08/2020;post-critica;0
+656;05/08/2020;post-critica;0
+657;06/08/2020;post-critica;0
+658;07/08/2020;post-critica;1
+659;08/08/2020;post-critica;1
+660;09/08/2020;post-critica;2
+661;10/08/2020;post-critica;2
+662;11/08/2020;post-critica;2
+663;12/08/2020;post-critica;2
+664;13/08/2020;post-critica;4
+665;14/08/2020;post-critica;4
+666;15/08/2020;post-critica;4
+667;16/08/2020;post-critica;4
+668;17/08/2020;post-critica;4
+669;18/08/2020;post-critica;5
+670;19/08/2020;post-critica;6
+671;20/08/2020;post-critica;7
+672;21/08/2020;post-critica;7
+673;22/08/2020;post-critica;7
+674;23/08/2020;post-critica;5
+675;24/08/2020;post-critica;5
+676;25/08/2020;post-critica;5
+677;26/08/2020;post-critica;5
+678;27/08/2020;post-critica;5
+679;28/08/2020;post-critica;5
+680;29/08/2020;post-critica;4
+681;30/08/2020;post-critica;4
+682;31/08/2020;post-critica;2
+683;01/09/2020;post-critica;2
+684;02/09/2020;post-critica;2
+685;03/09/2020;post-critica;2
+686;04/09/2020;post-critica;2
+687;05/09/2020;post-critica;2
+688;06/09/2020;post-critica;3
+689;07/09/2020;post-critica;3
+690;08/09/2020;post-critica;3
+691;09/09/2020;post-critica;2
+692;10/09/2020;post-critica;2
+693;11/09/2020;post-critica;9
+694;12/09/2020;post-critica;11
+695;13/09/2020;post-critica;11
+696;14/09/2020;post-critica;11
+697;15/09/2020;post-critica;11
+698;16/09/2020;post-critica;14
+699;17/09/2020;post-critica;17
+700;18/09/2020;post-critica;17
+701;19/09/2020;post-critica;17
+702;20/09/2020;post-critica;17
+703;21/09/2020;post-critica;17
+704;22/09/2020;post-critica;17
+705;23/09/2020;post-critica;17
+706;24/09/2020;post-critica;17
+707;25/09/2020;post-critica;18
+708;26/09/2020;post-critica;17
+709;27/09/2020;post-critica;18
+710;28/09/2020;post-critica;18
+711;29/09/2020;post-critica;12
+712;30/09/2020;post-critica;12
+713;01/10/2020;post-critica;12
+714;02/10/2020;post-critica;12
+715;03/10/2020;post-critica;12
+716;04/10/2020;post-critica;12
+717;05/10/2020;post-critica;8
+718;06/10/2020;post-critica;8
+719;07/10/2020;post-critica;10
+720;08/10/2020;post-critica;10
+721;09/10/2020;post-critica;10
+722;10/10/2020;post-critica;10
+723;11/10/2020;post-critica;12
+724;12/10/2020;post-critica;12
+725;13/10/2020;post-critica;17
+726;14/10/2020;post-critica;17
+727;15/10/2020;post-critica;26
+728;16/10/2020;post-critica;31
+729;17/10/2020;post-critica;32
+730;18/10/2020;post-critica;35
+731;19/10/2020;post-critica;38
+732;20/10/2020;post-critica;38
+733;21/10/2020;post-critica;30
+734;22/10/2020;post-critica;44
+735;23/10/2020;post-critica;46
+736;24/10/2020;post-critica;46
+737;25/10/2020;post-critica;46
+738;26/10/2020;post-critica;54
+739;27/10/2020;post-critica;55
+740;28/10/2020;post-critica;64
+741;25/02/2020;non intensiva;0
+742;26/02/2020;non intensiva;0
+743;27/02/2020;non intensiva;0
+744;28/02/2020;non intensiva;0
+745;29/02/2020;non intensiva;0
+746;01/03/2020;non intensiva;0
+747;02/03/2020;non intensiva;0
+748;03/03/2020;non intensiva;0
+749;04/03/2020;non intensiva;0
+750;05/03/2020;non intensiva;57
+751;06/03/2020;non intensiva;73
+752;07/03/2020;non intensiva;91
+753;08/03/2020;non intensiva;110
+754;09/03/2020;non intensiva;136
+755;10/03/2020;non intensiva;159
+756;11/03/2020;non intensiva;212
+757;12/03/2020;non intensiva;254
+758;13/03/2020;non intensiva;337
+759;14/03/2020;non intensiva;449
+760;15/03/2020;non intensiva;511
+761;16/03/2020;non intensiva;512
+762;17/03/2020;non intensiva;426
+763;18/03/2020;non intensiva;435
+764;19/03/2020;non intensiva;439
+765;20/03/2020;non intensiva;453
+766;21/03/2020;non intensiva;494
+767;22/03/2020;non intensiva;557
+768;23/03/2020;non intensiva;592
+769;24/03/2020;non intensiva;575
+770;25/03/2020;non intensiva;577
+771;26/03/2020;non intensiva;518
+772;27/03/2020;non intensiva;513
+773;28/03/2020;non intensiva;529
+774;29/03/2020;non intensiva;531
+775;30/03/2020;non intensiva;523
+776;31/03/2020;non intensiva;492
+777;01/04/2020;non intensiva;532
+778;02/04/2020;non intensiva;527
+779;03/04/2020;non intensiva;533
+780;04/04/2020;non intensiva;542
+781;05/04/2020;non intensiva;521
+782;06/04/2020;non intensiva;522
+783;07/04/2020;non intensiva;487
+784;08/04/2020;non intensiva;495
+785;09/04/2020;non intensiva;463
+786;10/04/2020;non intensiva;452
+787;11/04/2020;non intensiva;477
+788;12/04/2020;non intensiva;475
+789;13/04/2020;non intensiva;495
+790;14/04/2020;non intensiva;471
+791;15/04/2020;non intensiva;434
+792;16/04/2020;non intensiva;405
+793;17/04/2020;non intensiva;393
+794;18/04/2020;non intensiva;368
+795;19/04/2020;non intensiva;372
+796;20/04/2020;non intensiva;372
+797;21/04/2020;non intensiva;372
+798;22/04/2020;non intensiva;339
+799;23/04/2020;non intensiva;333
+800;24/04/2020;non intensiva;314
+801;25/04/2020;non intensiva;313
+802;26/04/2020;non intensiva;296
+803;27/04/2020;non intensiva;290
+804;28/04/2020;non intensiva;296
+805;29/04/2020;non intensiva;284
+806;30/04/2020;non intensiva;274
+807;01/05/2020;non intensiva;229
+808;02/05/2020;non intensiva;221
+809;03/05/2020;non intensiva;222
+810;04/05/2020;non intensiva;215
+811;05/05/2020;non intensiva;219
+812;06/05/2020;non intensiva;207
+813;07/05/2020;non intensiva;187
+814;08/05/2020;non intensiva;185
+815;09/05/2020;non intensiva;169
+816;10/05/2020;non intensiva;155
+817;11/05/2020;non intensiva;151
+818;12/05/2020;non intensiva;108
+819;13/05/2020;non intensiva;98
+820;14/05/2020;non intensiva;81
+821;15/05/2020;non intensiva;69
+822;16/05/2020;non intensiva;55
+823;17/05/2020;non intensiva;54
+824;18/05/2020;non intensiva;56
+825;19/05/2020;non intensiva;66
+826;20/05/2020;non intensiva;55
+827;21/05/2020;non intensiva;49
+828;22/05/2020;non intensiva;47
+829;23/05/2020;non intensiva;44
+830;24/05/2020;non intensiva;43
+831;25/05/2020;non intensiva;42
+832;26/05/2020;non intensiva;40
+833;27/05/2020;non intensiva;37
+834;28/05/2020;non intensiva;28
+835;29/05/2020;non intensiva;22
+836;30/05/2020;non intensiva;24
+837;31/05/2020;non intensiva;23
+838;01/06/2020;non intensiva;23
+839;02/06/2020;non intensiva;20
+840;03/06/2020;non intensiva;19
+841;04/06/2020;non intensiva;20
+842;05/06/2020;non intensiva;20
+843;06/06/2020;non intensiva;17
+844;07/06/2020;non intensiva;16
+845;08/06/2020;non intensiva;16
+846;09/06/2020;non intensiva;15
+847;10/06/2020;non intensiva;12
+848;11/06/2020;non intensiva;11
+849;12/06/2020;non intensiva;10
+850;13/06/2020;non intensiva;12
+851;14/06/2020;non intensiva;11
+852;15/06/2020;non intensiva;10
+853;16/06/2020;non intensiva;11
+854;17/06/2020;non intensiva;13
+855;18/06/2020;non intensiva;12
+856;19/06/2020;non intensiva;9
+857;20/06/2020;non intensiva;8
+858;21/06/2020;non intensiva;9
+859;22/06/2020;non intensiva;9
+860;23/06/2020;non intensiva;7
+861;24/06/2020;non intensiva;7
+862;25/06/2020;non intensiva;7
+863;26/06/2020;non intensiva;8
+864;27/06/2020;non intensiva;7
+865;28/06/2020;non intensiva;8
+866;29/06/2020;non intensiva;8
+867;30/06/2020;non intensiva;8
+868;01/07/2020;non intensiva;8
+869;02/07/2020;non intensiva;8
+870;03/07/2020;non intensiva;6
+871;04/07/2020;non intensiva;5
+872;05/07/2020;non intensiva;5
+873;06/07/2020;non intensiva;5
+874;07/07/2020;non intensiva;5
+875;08/07/2020;non intensiva;5
+876;09/07/2020;non intensiva;5
+877;10/07/2020;non intensiva;4
+878;11/07/2020;non intensiva;4
+879;12/07/2020;non intensiva;4
+880;13/07/2020;non intensiva;4
+881;14/07/2020;non intensiva;4
+882;15/07/2020;non intensiva;3
+883;16/07/2020;non intensiva;3
+884;17/07/2020;non intensiva;3
+885;18/07/2020;non intensiva;2
+886;19/07/2020;non intensiva;2
+887;20/07/2020;non intensiva;2
+888;21/07/2020;non intensiva;2
+889;22/07/2020;non intensiva;2
+890;23/07/2020;non intensiva;2
+891;24/07/2020;non intensiva;2
+892;25/07/2020;non intensiva;3
+893;26/07/2020;non intensiva;3
+894;27/07/2020;non intensiva;5
+895;28/07/2020;non intensiva;4
+896;29/07/2020;non intensiva;5
+897;30/07/2020;non intensiva;6
+898;31/07/2020;non intensiva;6
+899;01/08/2020;non intensiva;8
+900;02/08/2020;non intensiva;11
+901;03/08/2020;non intensiva;13
+902;04/08/2020;non intensiva;15
+903;05/08/2020;non intensiva;15
+904;06/08/2020;non intensiva;16
+905;07/08/2020;non intensiva;13
+906;08/08/2020;non intensiva;14
+907;09/08/2020;non intensiva;13
+908;10/08/2020;non intensiva;11
+909;11/08/2020;non intensiva;11
+910;12/08/2020;non intensiva;10
+911;13/08/2020;non intensiva;8
+912;14/08/2020;non intensiva;10
+913;15/08/2020;non intensiva;13
+914;16/08/2020;non intensiva;12
+915;17/08/2020;non intensiva;12
+916;18/08/2020;non intensiva;13
+917;19/08/2020;non intensiva;12
+918;20/08/2020;non intensiva;14
+919;21/08/2020;non intensiva;13
+920;22/08/2020;non intensiva;11
+921;23/08/2020;non intensiva;12
+922;24/08/2020;non intensiva;13
+923;25/08/2020;non intensiva;14
+924;26/08/2020;non intensiva;9
+925;27/08/2020;non intensiva;8
+926;28/08/2020;non intensiva;8
+927;29/08/2020;non intensiva;10
+928;30/08/2020;non intensiva;12
+929;31/08/2020;non intensiva;13
+930;01/09/2020;non intensiva;14
+931;02/09/2020;non intensiva;14
+932;03/09/2020;non intensiva;13
+933;04/09/2020;non intensiva;12
+934;05/09/2020;non intensiva;13
+935;06/09/2020;non intensiva;14
+936;07/09/2020;non intensiva;16
+937;08/09/2020;non intensiva;16
+938;09/09/2020;non intensiva;14
+939;10/09/2020;non intensiva;11
+940;11/09/2020;non intensiva;13
+941;12/09/2020;non intensiva;12
+942;13/09/2020;non intensiva;14
+943;14/09/2020;non intensiva;15
+944;15/09/2020;non intensiva;17
+945;16/09/2020;non intensiva;15
+946;17/09/2020;non intensiva;20
+947;18/09/2020;non intensiva;22
+948;19/09/2020;non intensiva;23
+949;20/09/2020;non intensiva;22
+950;21/09/2020;non intensiva;24
+951;22/09/2020;non intensiva;24
+952;23/09/2020;non intensiva;24
+953;24/09/2020;non intensiva;25
+954;25/09/2020;non intensiva;22
+955;26/09/2020;non intensiva;23
+956;27/09/2020;non intensiva;18
+957;28/09/2020;non intensiva;23
+958;29/09/2020;non intensiva;25
+959;30/09/2020;non intensiva;26
+960;01/10/2020;non intensiva;24
+961;02/10/2020;non intensiva;23
+962;03/10/2020;non intensiva;22
+963;04/10/2020;non intensiva;24
+964;05/10/2020;non intensiva;28
+965;06/10/2020;non intensiva;29
+966;07/10/2020;non intensiva;30
+967;08/10/2020;non intensiva;34
+968;09/10/2020;non intensiva;36
+969;10/10/2020;non intensiva;41
+970;11/10/2020;non intensiva;44
+971;12/10/2020;non intensiva;50
+972;13/10/2020;non intensiva;60
+973;14/10/2020;non intensiva;64
+974;15/10/2020;non intensiva;61
+975;16/10/2020;non intensiva;72
+976;17/10/2020;non intensiva;76
+977;18/10/2020;non intensiva;86
+978;19/10/2020;non intensiva;96
+979;20/10/2020;non intensiva;95
+980;21/10/2020;non intensiva;107
+981;22/10/2020;non intensiva;125
+982;23/10/2020;non intensiva;143
+983;24/10/2020;non intensiva;167
+984;25/10/2020;non intensiva;168
+985;26/10/2020;non intensiva;187
+986;27/10/2020;non intensiva;220
+987;28/10/2020;non intensiva;201
